@@ -1,4 +1,39 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://naamkyda.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Personal website'
 theme = "LoveIt-0.3.0"
+
+[params]
+title = 'Personal website'
+description = 'This site is in progress...stay tuned ;-)'
+
+
+[params.author]
+name = "naamkyda"
+
+[params.header]
+
+  [params.header.title]
+  
+  name = "Personal website"
+
+
+[params.home]
+
+[params.home.profile]
+
+#title = 'Personal website'
+subtitle = 'This site is in progress...stay tuned ;-)'
+
+
+
+[params.footer]
+since = 2025
+author = true
+hugo = false
+copyright = true
+license = """
+Licensed under <a href='https://creativecommons.org/licenses/by-nc/4.0/' target='_blank' rel='noopener'>CC BY-NC 4.0</a><br>
+Non-commercial use only.<br>
+Reuse requires attribution and a link to the original page.
+"""
