@@ -1,7 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>IT Security - Category - naamkyda&#39;s journaling corner</title>
-        <link>https://naamkyda.github.io/categories/it-security/</link>
-        <description>IT Security - Category - naamkyda&#39;s journaling corner</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Content licensed under CC BY-NC 4.0. Non-commercial use only. Reuse requires attribution and a link to the original page.</copyright><atom:link href="https://naamkyda.github.io/categories/it-security/" rel="self" type="application/rss+xml" /></channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>IT Security - Category - naamkyda's journaling corner</title><link>https://naamkyda.github.io/categories/it-security/</link><description>IT Security - Category - naamkyda's journaling corner</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Content licensed under CC BY-NC 4.0. Non-commercial use only. Reuse requires attribution and a link to the original page.</copyright><atom:link href="https://naamkyda.github.io/categories/it-security/" rel="self" type="application/rss+xml"/></channel></rss>
