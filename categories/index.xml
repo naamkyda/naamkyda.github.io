@@ -3,10 +3,10 @@
         <title>Categories - Category - naamkyda&#39;s journaling corner</title>
         <link>https://naamkyda.github.io/categories/</link>
         <description>Categories - Category - naamkyda&#39;s journaling corner</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Content licensed under CC BY-NC 4.0. Non-commercial use only. Reuse requires attribution and a link to the original page.</copyright><lastBuildDate>Fri, 26 Dec 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://naamkyda.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Content licensed under CC BY-NC 4.0. Non-commercial use only. Reuse requires attribution and a link to the original page.</copyright><atom:link href="https://naamkyda.github.io/categories/" rel="self" type="application/rss+xml" /><item>
     <title>IT Security</title>
     <link>https://naamkyda.github.io/categories/it-security/</link>
-    <pubDate>Fri, 26 Dec 2025 00:00:00 &#43;0000</pubDate>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>naamkyda</author>
     <guid>https://naamkyda.github.io/categories/it-security/</guid>
     <description><![CDATA[A collection of CTF write-ups, vulnerability analyses, reverse engineering projects, and articles on both offensive and defensive information security.]]></description>
