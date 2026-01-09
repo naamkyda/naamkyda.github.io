@@ -1,1 +1,13 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://naamkyda.github.io/about/</loc><lastmod>2025-12-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url><loc>https://naamkyda.github.io/</loc><lastmod>2025-12-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url><loc>https://naamkyda.github.io/posts/</loc><lastmod>2025-12-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url><loc>https://naamkyda.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://naamkyda.github.io/categories/it-security/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://naamkyda.github.io/categories/mind/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://naamkyda.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://naamkyda.github.io/categories/general-it/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://naamkyda.github.io/categories/tech-archive/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://naamkyda.github.io/about/</loc><lastmod>2025-12-27T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://naamkyda.github.io/</loc><lastmod>2025-12-27T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://naamkyda.github.io/posts/</loc><lastmod>2025-12-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://naamkyda.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://naamkyda.github.io/categories/it-security/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://naamkyda.github.io/categories/mind/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://naamkyda.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://naamkyda.github.io/categories/general-it/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://naamkyda.github.io/categories/tech-archive/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
